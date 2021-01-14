@@ -6,10 +6,10 @@ we investigate the scale alignment between pre-training and target datasets, and
 
 ## Illustration of the difference between SM and SM+
 
-![](figure/framework.png)
+![image](figure/framework.png)
 
 ## Visualization
 
-![](figure/visualization.png)
+![image](figure/visualization.png)
 
 ## Coming Soon!!
