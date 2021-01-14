@@ -14,6 +14,6 @@ While SM only considers the whole image, our SM+ focuses on every instance. The 
 
 ![image](figure/visualization.png)
 
-Background based on inpainting **top** vs. Background based on new sampling **bottom**. The inpainting method might not repair some artifacts, but changing the background does not cause this problem.
+Background based on inpainting (**top**) vs. Background based on new sampling (**bottom**). The inpainting method might not repair some artifacts, but changing the background does not cause this problem.
 
 ## Coming Soon!!
